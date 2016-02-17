@@ -1,9 +1,10 @@
 # PCLogcat
+
 Android logcat client for windows
 
 # Config
 
-App.config: 正确配置adb.exe路径
+**App.config** - 正确配置 `adb.exe` 路径
 
 ```
 <appSettings>
